@@ -1,0 +1,5 @@
+{
+  "name": "pixel-office",
+  "owner": { "name": "gg18966141298-crypt" },
+  "plugins": [{ "name": "pixel-office", "source": "./" }]
+}
